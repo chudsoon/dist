@@ -65,29 +65,22 @@
     					<li data-target="#carousel-example-generic" data-slide-to="2"></li>
     				</ol>
     				
-
-    				<!--wrapper slides -->
-    				<div class="carousel-inner" role="listbox">
-    					<div class="item active">
-    						<img src="images/slider.jpg" alt="slide1">
-    						<div class="carousel-caption">
-    						...
+    				 						<!-- Wrapper for slides -->
+  						<div class="carousel-inner" role="listbox">
+    						<div class="item active">
+      						<img src="images/slider.jpg" alt="...">
+      						<div class="carousel-caption">
+        						...
+      						</div>
     						</div>
-    					</div>	
-    					<div class="item">
-    						<img src="images/slider2.jpg" alt="slide2">
-    						<div class="carousel-caption">
-    						...
-    						</div>
-    					</div>
     						<div class="item">
-    						<img src="images/slider3.jpg" alt="slide3">
-    						<div class="carousel-caption">
-    						...
+      						<img src="..." alt="...">
+      						<div class="carousel-caption">
+        						...
+      						</div>
     						</div>
-    					</div>
-    					...
-    				</div>
+    						...
+  						</div>
     				 <!-- Controls -->
   					<a class="left carousel-control" href="#carousel-example-generic" role="button" data-slide="prev">
     					<span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
@@ -100,17 +93,16 @@
 					</div>
     			</div>
     		</div>
-    		<div class="row">
-    			<div class="col-md-12">
-    				<div class="jumbotron">
-    					<h1>Hello World!</h1>
-    					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nisi urna, fringilla vel ex at, iaculis convallis mi. Nulla orci.	</p>
-    					<p><a class="btn btn-primary btn-lg" href="#" role="button">Learn more!</a></p>
-    				</div>
+    	</div>
+    	<div class="row">
+    		<div class="col-md-12">
+    			<div class="jumbotron">
+    				<h1>Hello World!</h1>
+    				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nisi urna, fringilla vel ex at, iaculis convallis mi. Nulla orci.	</p>
+    				<p><a class="btn btn-primary btn-lg" href="#" role="button">Learn more!</a></p>
     			</div>
     		</div>
     	</div>
-    	
     	<script src="js/jquery.min.js"></script>
     	<script src="js/bootstrap.min.js"></script>
     
